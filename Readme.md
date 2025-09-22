@@ -1,4 +1,4 @@
-# 🚀 Bootcamp Santander 2025 - Análise de Dados com Excel e Power BI
+# 🚀 Bootcamp Klabin 2025 - Análise de Dados com Excel e Power BI
 
 Bem-vindo ao repositório do **Bootcamp Santander 2025** de **Análise de Dados com Excel e Power BI**!  
 Este repositório armazena os **desafios** e **projetos** do curso, com o foco em **análise de dados**, **visualização** e **tomada de decisão baseada em insights**.
