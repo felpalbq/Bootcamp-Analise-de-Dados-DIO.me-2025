@@ -30,23 +30,8 @@ Branch dedicada ao módulo **Explorando Bancos Relacionais e Consultas SQL** (8 
 ### 🔹 **`excel`**
 Branch para o módulo **Análise de Dados com Excel e Copilot** (7 atividades).
 
-### 🔹 **`fundamentos-pbi`**
+### 🔹 **`powerbi`**
 Branch onde estão os **Fundamentos de Power BI** (3 atividades).
-
-### 🔹 **`visualizacao`**
-Branch dedicada à **Visualização de Dados e Relatórios com Power BI** (4 atividades).
-
-### 🔹 **`processamento`**
-Branch para o **Processamento de Dados com Power BI** (3 atividades).
-
-### 🔹 **`modelagem`**
-Branch com os conteúdos de **Modelagem de Dados com Power BI** (6 atividades).
-
-### 🔹 **`storytelling`**
-Branch dedicada ao módulo **Data Analytics & Storytelling com Power BI** (5 atividades).
-
-### 🔹 **`workspaces`**
-Branch para o módulo **Gerenciamento de Workspaces e Datasets com Power BI** (3 atividades).
 
 ---
 
